@@ -1,3 +1,7 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  HEADER                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=680&lines=Engineering+Team+Lead+%40+Safqah+Capital+%F0%9F%9A%80;Flutter+%26+.NET+%E2%80%94+Mobile+to+Cloud+%E2%98%81%EF%B8%8F;Shipping+FinTech+%26+PropTech+in+Saudi+Arabia+%F0%9F%92%B3;MSc+Computer+Science+%40+Georgia+Tech+%F0%9F%8E%93;Turning+Complex+Problems+into+Scalable+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
@@ -31,12 +35,12 @@
 ```yaml
 name       : Ayman Ba-Ajajah
 role       : Engineering Team Lead
-company    : Safqah Capital — FinTech & PropTech Scaleup, Riyadh 🇸🇦
+company    : Safqah Capital — FinTech & PropTech 🇸🇦
 education  : MSc Computer Science @ Georgia Institute of Technology 🐝
 
 what_i_do:
   - Lead cross-functional engineering teams delivering FinTech & PropTech products
-  - Architect Flutter-first mobile platforms with .NET backends
+  - Architect Flutter-first mobile platforms with various backends
   - Drive system design decisions and engineering best practices
   - Explore AI/ML, security, and the broader landscape of modern software
 
@@ -49,7 +53,7 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 
 ## 🛠️ Tech Stack
 
-**📱 Mobile**
+**📱 Mobile — Where I live**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -73,7 +77,9 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 **☁️ DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **🌐 Frontend**
@@ -85,6 +91,8 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **🧰 Tools, Testing & Design**
 
@@ -102,17 +110,11 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=aymankb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=aymankb&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymankb&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aymankb&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aymankb&theme=tokyonight" />
 </div>
 
 <br/>
@@ -134,5 +136,3 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aymankb&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
-
-<br/>
