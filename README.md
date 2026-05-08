@@ -2,7 +2,7 @@
 <!--  HEADER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0f2460,65:1d4ed8,100:0369a1&height=230&section=header&text=Ayman%20Ba-Ajajah&fontSize=64&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Engineering%20Team%20Lead%20%7C%20Flutter%20%26%20.NET%20%7C%20FinTech%20%26%20PropTech%20%7C%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6&descSize=16&descColor=93c5fd&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e1a,30:0f2460,65:1d4ed8,100:0369a1&amp;height=230&amp;section=header&amp;text=Ayman%20Ba-Ajajah&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=42&amp;fontAlign=50&amp;desc=Engineering%20Team%20Lead%20%7C%20Flutter%20%26%20.NET%20%7C%20FinTech%20%26%20PropTech%20%7C%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6&amp;descSize=16&amp;descColor=93c5fd&amp;descAlignY=63&amp;animation=fadeIn" />
 
 <br/>
 
@@ -111,14 +111,14 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 
 <div align="center">
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=aymankb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=38bdf8&icon_color=38bdf8&text_color=93c5fd&ring_color=0369a1" />
+  <img height="190em" src="https://github-readme-stats.demolab.com/api?username=aymankb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
   &nbsp;
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymankb&layout=compact&langs_count=8&hide_border=true&bg_color=0a0e1a&title_color=38bdf8&text_color=93c5fd" />
+  <img height="190em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=aymankb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aymankb&theme=transparent&hide_border=true&background=0a0e1a&stroke=0369a1&ring=0369a1&fire=f97316&currStreakLabel=38bdf8&sideLabels=93c5fd&dates=475569&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=aymankb&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -156,4 +156,4 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  FOOTER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f2460,100:0a0e1a&height=140&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369a1,50:0f2460,100:0a0e1a&amp;height=140&amp;section=footer&amp;animation=fadeIn" />
