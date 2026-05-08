@@ -1,11 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  HEADER                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e1a,30:0f2460,65:1d4ed8,100:0369a1&amp;height=230&amp;section=header&amp;text=Ayman%20Ba-Ajajah&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=42&amp;fontAlign=50&amp;desc=Engineering%20Team%20Lead%20%7C%20Flutter%20%26%20.NET%20%7C%20FinTech%20%26%20PropTech%20%7C%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6&amp;descSize=16&amp;descColor=93c5fd&amp;descAlignY=63&amp;animation=fadeIn" />
-
-<br/>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=680&lines=Engineering+Team+Lead+%40+Safqah+Capital+%F0%9F%9A%80;Flutter+%26+.NET+%E2%80%94+Mobile+to+Cloud+%E2%98%81%EF%B8%8F;Shipping+FinTech+%26+PropTech+in+Saudi+Arabia+%F0%9F%92%B3;MSc+Computer+Science+%40+Georgia+Tech+%F0%9F%8E%93;Turning+Complex+Problems+into+Scalable+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
@@ -57,7 +49,7 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 
 ## 🛠️ Tech Stack
 
-**📱 Mobile — Where I live**
+**📱 Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -110,15 +102,17 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="190em" src="https://github-readme-stats.demolab.com/api?username=aymankb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  &nbsp;
-  <img height="190em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=aymankb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com/?user=aymankb&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aymankb&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymankb&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aymankb&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aymankb&theme=tokyonight" />
 </div>
 
 <br/>
@@ -142,18 +136,3 @@ interests  : FinTech · PropTech · EduTech · HealthTech · Networking · Secur
 </div>
 
 <br/>
-
----
-
-## 💬 A Thought to End On
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  FOOTER                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369a1,50:0f2460,100:0a0e1a&amp;height=140&amp;section=footer&amp;animation=fadeIn" />
