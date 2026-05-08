@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=680&lines=Engineering+Team+Lead+%40+Safqah+Capital+%F0%9F%9A%80;Flutter+%26+.NET+%E2%80%94+Mobile+to+Cloud+%E2%98%81%EF%B8%8F;Shipping+FinTech+%26+PropTech+in+Saudi+Arabia+%F0%9F%92%B3;MSc+Computer+Science+%40+Georgia+Tech+%F0%9F%8E%93;Turning+Complex+Problems+into+Scalable+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=680&lines=Engineering+Team+Lead+%40+Safqah+Capital+%F0%9F%9A%80;Flutter+%26+.NET+%E2%80%94+Mobile+to+Production+%E2%98%81%EF%B8%8F;Shipping+FinTech+%26+PropTech+Products+%F0%9F%92%B3;MSc+Computer+Science+%40+Georgia+Tech+%F0%9F%8E%93;Turning+Complex+Problems+into+Scalable+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views + Socials -->
